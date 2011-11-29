@@ -1,0 +1,10 @@
+{
+  "name" : "fbAuth",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependencies" : {
+      "express": "2.5.0"
+     , "oauth": ">= 0.9.4"
+     , "connect-auth": "0.4.1"
+  }
+}
